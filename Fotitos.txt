@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+   <font color = "red"  size = 6><center><B><U><H1>FOTITOS</H1></U></B></center></font>
+      <TITLE>
+      Aniversario
+      </TITLE>
+</HEAD>
+<Body bgcolor = "black" text = "sky blue"><B>
+<H3>Nuestros momentos inolvidables</H3><img src = "C:\Users\Brandon\Documents\Angely\Página 3\1540ec1e-24c4-43a4-8c14-b3256ac1a4e3.jpg" >
+
+</Body>
+</HTML>
